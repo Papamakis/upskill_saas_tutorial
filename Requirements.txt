@@ -3,3 +3,8 @@ Memberships
 * user should see link for pro plan on home page
 * basic plan link should point to regular devise sing up form
 * pro plan link should point to a custom sign up form 
+
+
+ActiveRecord
+parameters
+subtitution
